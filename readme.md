@@ -1,3 +1,24 @@
+
+<p>
+  composer install
+ </p>
+ <p>
+  cp .env-example .env
+ </p>
+ <p>
+  php artisan key:generate
+ </p>
+ <p>
+  open new terminal >>> sudo chown -R www-data.www-data /var/www/html/laravelFolder
+  </p>
+  <p>
+    import on phpmyadmin file.sql
+  </p>
+  <p>
+    username: admin,
+    password: admin or password
+  </p>
+  
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
